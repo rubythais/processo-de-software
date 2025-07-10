@@ -1,6 +1,6 @@
 # Histórias de Usuário
 
-### História de Usuário 1 – Visualizar Editais e Auxílios
+### História de Usuário 1 – Visualizar Editais de Auxílios
 
 **Como** aluno do IFRN,  
 **Quero** visualizar os editais e os tipos de auxílios disponíveis,  
@@ -8,10 +8,10 @@
 
 ---
 
-### História de Usuário 2 – Gerenciar Bolsistas
+### História de Usuário 2 – Visualizar situação do bolsistas
 
 **Como** assistente social,  
-**Quero** acessar uma lista organizada de bolsistas ativos e inativos no sistema,  
+**Quero** visualizar uma lista organizada de bolsistas ativos e inativos no sistema,  
 **Para que** eu possa acompanhar e atualizar a situação de cada aluno no programa PAFE.
 
 ---
